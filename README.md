@@ -1,32 +1,118 @@
-# Machine-for-cleaning-air-conditioner-dust
-Problem Statement
+🌬️ Air Conditioner Dust Cleaning Machine
 
--Zan Hao has a uncle that	his name called tey jie wen, he has a back pain, his 45 and his job was to fix air conditioner
+An innovative project designed to help air-conditioner technicians detect dust buildup on air-conditioner filters more easily and safely.
 
-Solution for the problem
+📌 Project Overview
 
-- A dust sensor(a light, a light sensor, A red light)
+This project was created after identifying a problem faced by Uncle Teh Jie Wen, a 45-year-old air-conditioner technician who suffers from back pain.
 
-why do we make a dust sensor?
+His work often requires him to climb ladders repeatedly to inspect and clean air-conditioner filters. This can be physically tiring, especially because of his back pain, and repeatedly climbing up and down a ladder can also increase the risk of accidents.
 
-- the purpose of making the sensor is to detect the thickness of the dust in the filter gauze
+To address this problem, we developed a dust detection sensor that can detect the amount of dust accumulated on an air-conditioner filter.
 
-Beneficiary and Desired Impact
+💡 Our Solution
 
-- Cause uncle Jie Wen has a back pain, he no need to use ladder for climbing up and down any more, he can just use the sensor to let his job easier and saver
+We developed a simple dust sensor using:
 
-![code](gemini-code-1789711719197.cpp)
+💡 A light source
 
-![https://docs.google.com/presentation/d/1jB6Oc7MsP_atcBfOPBKNUA2kbRIdzzOby08PAfm7Lpg/edit?slide=id.g27cb35148c0_0_5#slide=id.g27cb35148c0_0_5](images.jpg)
+🔆 A light sensor
 
-![slide](TLH.pdf)
+🔴 A red indicator light
 
-group member:
+The sensor works by detecting changes in light caused by dust accumulated on the filter gauze.
 
-Hiram Tan 1A
+The purpose of the sensor is to help determine how dirty the filter is and whether it needs cleaning.
+
+🎯 Why Did We Make This?
+
+The main goal of this project is to make air-conditioner maintenance:
+
+Safer
+
+Easier
+
+More convenient
+
+Less physically demanding
+
+Instead of repeatedly climbing up and down a ladder just to inspect the filter, a technician can use the sensor to help determine the dust level.
+
+This could be particularly helpful for technicians who experience physical strain or back pain.
+
+👤 Beneficiaries
+
+The main beneficiary of this project is Uncle Teh Jie Wen, as well as other air-conditioner technicians who face similar challenges in their daily work.
+
+Expected Impact
+
+Our project aims to:
+
+Reduce unnecessary ladder climbing.
+
+Reduce physical strain on technicians.
+
+Improve workplace safety.
+
+Make filter inspection more convenient.
+
+Help technicians identify when a filter requires cleaning.
+
+🔧 How It Works
+
+The basic concept of our system is:
+
+Air-conditioner filter
+        ↓
+   Dust buildup
+        ↓
+   Light source
+        ↓
+   Light sensor
+        ↓
+  Detect light change
+        ↓
+  Determine dust level
+        ↓
+ Red indicator if dusty
+
+
+When dust accumulates on the filter, it affects the amount of light detected by the light sensor. The sensor can then be used to indicate that the filter may require cleaning.
+
+📂 Project Files
+
+The repository contains the source code and project documentation used during development.
+
+gemini-code-1789711719197.cpp — Project source code
+
+TLH.pdf — Project presentation/documentation
+
+images.jpg — Project image
+
+🏆 Young Innovator Challenge 2023
+
+We brought this project to participate in the Young Innovator Challenge 2023.
+
+We were also awarded a certificate for our participation.
+
+👥 Group Members
+
+Hiram Tan — 1A
 
 Tee Zan Hao
 
-We had bring this project to participate young innovator challenge 2023
+🚀 Future Improvements
 
-- we got the certificate
+If we continue developing this project, we could improve it by:
+
+Adding a digital display to show the dust level.
+
+Making the sensor smaller and easier to carry.
+
+Adding different indicators for different dust levels.
+
+Improving the accuracy of dust detection.
+
+Designing a system that can automatically record when an air-conditioner filter needs cleaning.
+
+Project Goal: Make air-conditioner maintenance safer and easier for technicians.
