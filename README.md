@@ -79,16 +79,6 @@ Air-conditioner filter
 
 When dust accumulates on the filter, it affects the amount of light detected by the light sensor. The sensor can then be used to indicate that the filter may require cleaning.
 
-📂 Project Files
-
-The repository contains the source code and project documentation used during development.
-
-gemini-code-1789711719197.cpp — Project source code
-
-TLH.pdf — Project presentation/documentation
-
-images.jpg — Project image
-
 🏆 Young Innovator Challenge 2023
 
 We brought this project to participate in the Young Innovator Challenge 2023.
@@ -116,3 +106,7 @@ Improving the accuracy of dust detection.
 Designing a system that can automatically record when an air-conditioner filter needs cleaning.
 
 Project Goal: Make air-conditioner maintenance safer and easier for technicians.
+
+![code](gemini-code-1789711719197.cpp)
+
+![image](images.jpg)
