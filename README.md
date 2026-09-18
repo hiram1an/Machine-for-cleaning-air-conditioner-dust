@@ -16,5 +16,5 @@ Beneficiary and Desired Impact
 - Cause uncle Jie Wen has a back pain, he no need to use ladder for climbing up and down any more, he can just use the sensor to let his job easier and saver
 
 ![code](gemini-code-1789711719197.cpp)
-
+![image](images.jpg)
 https://docs.google.com/presentation/d/1jB6Oc7MsP_atcBfOPBKNUA2kbRIdzzOby08PAfm7Lpg/edit?slide=id.g27cb35148c0_0_5#slide=id.g27cb35148c0_0_5
