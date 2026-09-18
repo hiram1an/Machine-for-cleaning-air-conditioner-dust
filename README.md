@@ -13,4 +13,6 @@ why do we make a dust sensor?
 
 Beneficiary and Desired Impact
 
-Cause uncle Jie Wen has a back pain, he no need to use ladder for climbing up and down any more, he can just use the sensor to let his job easier and saver
+- Cause uncle Jie Wen has a back pain, he no need to use ladder for climbing up and down any more, he can just use the sensor to let his job easier and saver
+
+![code](gemini-code-1789711719197.cpp)
