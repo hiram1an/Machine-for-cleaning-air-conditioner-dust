@@ -29,4 +29,4 @@ Tee Zan Hao
 
 We had bring this project to participate young innovator challenge 2023
 
-- we got the cettificate
+- we got the certificate
